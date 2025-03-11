@@ -7,7 +7,7 @@ Summary:	Rendering Python docstrings in HTML
 Summary(pl.UTF-8):	Obrazowanie pythonowych docstringów w HTML-u
 Name:		python-docrepr
 Version:	0.1.1
-Release:	7
+Release:	8
 License:	BSD
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/docrepr/
